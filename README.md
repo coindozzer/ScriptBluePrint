@@ -9,10 +9,6 @@ Works the Consol, ISE and Visual Studio Code
 
 ## Usage
 
-Test | Test | Test
---- | --- | ---
-Test | Test | Test
-
 Create a new PS file and copy the frame in it.
 
 By defaul the scrip creates an log file in the log folder
